@@ -1,0 +1,7 @@
+Z:\2 курс\Практика С#\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe.config
+Z:\2 курс\Практика С#\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.exe
+Z:\2 курс\Практика С#\StaticDataAndMembers\StaticDataAndMembers\bin\Debug\StaticDataAndMembers.pdb
+Z:\2 курс\Практика С#\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csprojResolveAssemblyReference.cache
+Z:\2 курс\Практика С#\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.csproj.CoreCompileInputs.cache
+Z:\2 курс\Практика С#\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.exe
+Z:\2 курс\Практика С#\StaticDataAndMembers\StaticDataAndMembers\obj\Debug\StaticDataAndMembers.pdb
